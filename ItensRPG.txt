@@ -1,0 +1,310 @@
+Nome do Item,Preço,Página(DMG/MM),Raridade
+Adaga de Envenenamento,2500,160,Raro
+Algemas Dimensionais,3000,165,Raro
+Aljava de Ehlonna,1000,189,Incomum
+Amuleto de Proteção Contra Detecção e Localização,20000,150,Incomum
+Amuleto de Saúde,8000,150,Raro
+Amuleto dos Planos,160000,150,Muito Raro
+Anel da Ação Livre,20000,191,Raro
+Anel da Evasão,5000,191,Raro
+Anel da Invisibilidade,10000,191,Lendário
+Anel da Natação,3000,193,Incomum
+Anel da Queda Suave,2000,191,Raro
+Anel da Regeneração,12000,191,Muito Raro
+Anel da Telecinese,80000,193,Muito Raro
+Anel da Visão de Raio-X,6000,193,Raro
+Anel de Armazenar Magias,24000,192,Raro
+Anel de Calor,1000,193,Incomum
+Anel de Caminhar na Água,1500,193,Incomum
+Anel de Cativar animais,4000,189,Raro
+Anel de Comandar Elementais da Água,25000,191,Lendário
+Anel de Comandar Elementais da Terra,31000,190,Lendário
+Anel de Comandar Elementais do Ar,35000,190,Lendário
+Anel de Comandar Elementais do Fogo,17000,190,Lendário
+Anel de Estrelas Cadentes,14000,192,Muito Raro
+Anel de Proteção,3500,191,Raro
+Anel de Refletir Magias,30000,193,Lendário
+Anel de Resistência,6000,192,Raro
+Anel de Saltar,2500,191,Incomum
+Anel do Aríete,5000,193,Raro
+Anel do Escudo Mental,16000,191,Incomum
+Arco do Juramento,3500,183,Muito Raro
+Arma +1,1000,213,Incomum
+Arma +2,4000,213,Raro
+Arma +3,16000,213,Muito Raro
+Arma do Alerta,60000,213,Incomum
+Arma Viciada,350,209,Raro
+Armadura +1,1500,152,Raro
+Armadura +2,6000,152,Muito Raro
+Armadura +3,24000,152,Lendário
+Armadura Anã,9000,167,Muito Rara
+Armadura da Invulnerabilidade,18000,152,Lendário
+Armadura de Adamante,500,150,Incomum
+Armadura de Couro Batido Encantada,2000,172,Raro
+Armadura de Mitral,800,182,Incomum
+Armadura de Placas da Forma Etérea,48000,185,Lendário
+Armadura de Resistência,6000,152,Raro
+Armadura do Marinheiro,1500,181,Incomum
+Arremessador Anão,18000,167,Muito Raro
+Asas Voadoras,5000,214,Raro
+Azagaia do Relâmpago,1500,178,Incomum
+Bacia de Comandar Elementais da Água,8000,156.125,Raro
+Baralho das Ilusões,6120,161,Incomum
+Barco Dobrável,10000,170,Raro
+Bastão da Obediência,16000,197,Raro
+Bastão da Prontidão,25000,195,Muito Raro
+Bastão de Absorção,50000,195,Muito Raro
+Bastão de Segurança,90000,197,Muito Raro
+Bastão do Grande Poder,28000,195,Lendário
+Bastão do Tentáculo,5000,208,Raro
+Bastão guardião de pactos +1,12000,197,Raro
+Bastão guardião de pactos +2,16000,197,Raro
+Bastão guardião de pactos +3,28000,197,Muito Raro
+Bastão Imóvel,5000,175,Incomum
+Bola de Cristal,50000,159,Muito Raro
+Botas Aladas,8000,214.327,Incomum
+Botas da Levitação,4000,155,Raro
+Botas da Velocidade,4000,144,Raro
+Botas de Caminhar e Saltar,5000,156,Incomum
+Botas do Inverno,10000,156,Incomum
+Botas Élficas,2500,155,Incomum
+Braçadeiras da Arquearia,1500,156,Incomum
+Braçadeiras de Defesa,6000,156,Raro
+Braseiro de Comandar Elementais do Fogo,8000,156.125,Raro
+Broche do Escudo,7500,158,Incomum
+Brunea de Escamas de Dragão,4000,165,Muito Raro
+Buraco Portátil,8000,185,Raro
+Cabra de Marfim (Terror),20000,169.326,Raro
+Cabra de Marfim (Trabalho),400,169.326,Raro
+Cabra de Marfim (Viagem),1000,169.336,Raro
+Cajado da Píton,2000,204.324,Incomum
+Cajado da Víbora,1800,203,Incomum
+Cajado das Florestas,44000,204,Raro
+Cajado de Ataque,21000,203,Muito Raro
+Cajado de Cura,13000,202,Raro
+Cajado de Enfeitiçar,12000,201,Raro
+Cajado de Trovão e Relâmpago,10000,204,Muito Raro
+Cajado do Definhamento,3000,205,Raro
+Cajado do Enxame de Insetos,16000,203,Raro
+Cajado do Fogo,16000,201,Muito Raro
+Cajado do Frio,26000,201,Muito Raro
+Cajado do Poder,95500,202,Muito Raro
+Cão de Onyx,3000,170.332,Raro
+Capa da Invisibilidade,80000,158,Lendário
+Capa de Respirar na Água,1000,157,Incomum
+Capa do Deslocamento,60000,158,Raro
+Capa do Saltimbanco,8000,157,Raro
+Carrilhão de Abertura,1500,158,Raro
+Chapéu do Disfarce,5000,173,Incomum
+Cimitarra de Velocidade,6000,199,Muito Raro
+Cinto dos Anões,6000,155,Raro
+Cola Soberana,400,200,Lendário
+Colar da Adaptação,1500,182,Incomum
+Colar de Bolas de Fogo (1 conta),300,182,Raro
+Colar de Bolas de Fogo (2 contas),480,182,Raro
+Colar de Bolas de Fogo (3 contas),960,182,Raro
+Colar de Bolas de Fogo (4 contas),1600,182,Raro
+Colar de Bolas de Fogo (5 contas),3840,182,Raro
+Colar de Bolas de Fogo (6 contas),7680,182,Raro
+Colar de Contas de Oração - Abençoar,2000,182,Raro
+Colar de Contas de Oração - Auxiliar,32000,182,Raro
+Colar de Contas de Oração - Caminhar no Vento,96000,182,Raro
+Colar de Contas de Oração - Curar,4000,182,Raro
+Colar de Contas de Oração - Destruir,1500,182,Raro
+Colar de Contas de Oração - Invocar,128000,182,Raro
+Contas de Força,960,154,Raro
+Corcel de Obisidiana,128000,170.235,Muito Raro
+Corda de Escalada,2000,197,Incomum
+Corda de Estrangulamento,4000,197,Raro
+Coruja de Serpentina,8000,170,Raro
+Corvo de Prata,5000,170.335,Incomum
+Cubo de Força,16000,159,Raro
+Cubo de Portal,40000,160,Lendário
+Decantador de Água Infinita,135000,160,Incomum
+Defensora,24000,164,Lendário
+Diadema da Destruição,1500,158,Incomum
+Dispositivo de Kwalish,10000,151,Lendário
+Elefante de Mármore,6000,170.322,Raro
+Elixir da Saúde,120,168,Raro
+Elmo da Compreensão de Idiomas,500,173,Incomum
+Elmo da Telepatia,12000,174,Incomum
+Elmo do Teleporte,64000,174,Raro
+Escaravelho de Proteção,36000,199,Lendário
+Escudo +1,1500,200,Incomum
+Escudo +2,6000,200,Raro
+Escudo +3,24000,200,Muito Raro
+Escudo Animado,6000,151,Muito Raro
+Escudo Apanhador de Flechas,6000,152,Raro
+Escudo da Atração de Projéteis,6000,200,Raro
+Escudo de Proteção Contra Magias,50000,201,Muito Raro
+Escudo Sentinela,20000,199,Incomum
+Esfera da Aniquilação,15000,201,Lendário
+Espada da Retaliação,36000,206,Lendário
+Espada Dançarina,2000,160,Muito Raro
+Espada Decepadora,1700,206,Raro
+Espada do Sangramento,2000,207,Raro
+Espada Ladra de Vidas,1000,206,Raro
+Espada Vorpal,24000,209,Lendário
+Espelho do Aprisionamento,18000,181,Muito Raro
+Faixas de Ferro de Bilarro,4000,177,Raro
+Ferraduras da Velocidade,5000,175,Raro
+Ferraduras do Zéfiro,1500,175,Muito Raro
+Filtro do Amor,90,184,Incomum
+Flauta Assombrada,6000,185,Incomum
+Flauta dos Esgotos,2000,185,Incomum
+Flecha Assassina (Cada),600,152,Muito Raro
+Fortaleza Instantânea de Daern,75000,160,Raro
+Garrafa da Fumaça Eterna,1000,168,Incomum
+Gema da Luminosidade,5000,171,Incomum
+Gema da Visão,32000,172,Raro
+Gema Elemental,960,167,Incomum
+Globo de Fluxo,750,166,Incomum
+Grifo de Bronze,8000,169,Raro
+Incenso de Controlar Elementais do Ar,8000,158.124,Raro
+Instrumento de Bardo - Alaúde de Doss,28500,176,Incomum
+Instrumento de Bardo - Bandolim de Fochlucan,26500,176,Incomum
+Instrumento de Bardo - Citara de Mac-Fuirmidh,27000,176,Incomum
+Instrumento de Bardo - Harpa de Anstruth,109000,176,Muito Raro
+Instrumento de Bardo - Harpa de Ollamh,125000,176,Lendário
+Instrumento de Bardo - Lira de Cli,35000,176,Raro
+Instrumento de Bardo - Mandolim de Canaith,30000,176,Raro
+Jarro de Alquimia,6000,150,Incomum
+Ladra das Nove Vidas,8000,183,Muito Raro
+Lâmina do Sol,12000,205,Raro
+Lanterna de Revelação,5000,179,Incomum
+Leões Dourados,600,169.331,Raro
+Leque de Vento,1500,213,Incomum
+Língua de Fogo,5000,170,Raro
+Luvas de Apanhar Projéteis,3000,172,Incomum
+Luvas de Nadar e Escalar,2000,172,Incomum
+Luvas do Ladrão,5000,172,Incomum
+Maça da Destruição,7000,179,Raro
+Maça do Rompimento,8000,179,Raro
+Maça do Terror,8000,180,Raro
+Malha do Efreeti,20000,167,Lendário
+Malha Élfica,4000,168,Raro
+Manopla da Força do Ogro,8000,171,Incomum
+Manto da Aranha,5000,158,Muito Raro
+Manto da Arraia,6000,159,Incomum
+Manto de Proteção,3500,159,Incomum
+Manto de Resistência à Magia,30000,180,Raro
+Manto do Morcego,6000,159,Raro
+Manto Élfico,5000,158,Incomum
+Marca Congelante,2200,171,Muito Raro
+Martelo dos Trovões,16000,173,Lendário
+Mata Dragão,8000,166,Raro
+Mata Gigantes,7000,172,Raro
+Medalhão de Pensamentos,3000,181,Incomum
+Mochila de Carga,4000,153,Incomum
+Mosca de Ébano,6000,169,Raro
+Munição +1 (Cada),25,150,Incomum
+Munição +2 (Cada),100,150,Raro
+Munição +3 (Cada),400,150,Muito Raro
+Óculos Noturnos,1500,172,Incomum
+Óleo da Forma Etérea,1920,183,Raro
+Óleo de Precisão,3200,184,Muito Raro
+Óleo Escorregadio,480,184,Incomum
+Olhos de Águia,2500,168,Incomum
+Olhos de Visão Momentânea,2500,168,Incomum
+Olhos do Encantamento,3000,168,Incomum
+Pedra da Sorte,4200,205,Incomum
+Pedra de Controlar Elementais da Terra,8000,205.124,Raro
+Pedra Iônica da Absorção,2400,177,Muito Raro
+Pedra Iônica da Agilidade,3000,177,Muito Raro
+Pedra Iônica da Força,3000,177,Muito Raro
+Pedra Iônica da Fortitude,3000,177,Muito Raro
+Pedra Iônica da Grande Absorção,31000,177,Lendário
+Pedra Iônica da Intuição,3000,177,Muito Raro
+Pedra Iônica da Liderança,3000,177,Muito Raro
+Pedra Iônica da Maestria,15000,177,Lendário
+Pedra Iônica da Prontidão,12000,177,Raro
+Pedra Iônica da Proteção,1200,177,Raro
+Pedra Iônica da Regeneração,4000,177,Lendário
+Pedra Iônica do Armazenamento,6000,177,Raro
+Pedra Iônica do Intelecto,3000,177,Muito Raro
+Pedra Iônica do Sustento,1000,177,Raro
+Pedras de Mensagem,2000,199,Incomum
+Pena de Quaal (Âncora),50,188,Raro
+Pena de Quaal (Árvore),150,188,Raro
+Pena de Quaal (Barco de Cisne),3000,188,Raro
+Pena de Quaal (Chicote),250,188,Raro
+Pena de Quaal (Leque),250,188,Raro
+Pena de Quaal (Pássaro),3000,188,Raro
+Pergaminho de magia nível 0,20,200,Comum
+Pergaminho de magia nível 1,60,200,Comum
+Pergaminho de magia nível 2,120,200,Incomum
+Pergaminho de magia nível 3,200,200,Incomum
+Pergaminho de magia nível 4,320,200,Raro
+Pergaminho de magia nível 5,640,200,Raro
+Pergaminho de magia nível 6,1280,200,Muito Raro
+Pergaminho de magia nível 7,2560,200,Muito Raro
+Pergaminho de magia nível 8,5120,200,Muito Raro
+Pergaminho de magia nível 9,10240,200,Lendário
+Pergaminho de Proteção,180,199,Raro
+Periapto da Saúde,5000,184,Incomum
+Periapto de Cicatrização,5000,184,Incomum
+Periapto de Proteção Contra Veneno,5000,184,Raro
+Pérola do Poder,6000,184,Incomum
+Pigmentos Maravilhosos de Nolzur,200,183,Muito Raro
+Pó de Espirrar e Tossir,480,166,Incomum
+Pó de Seca,120,166,Incomum
+Pó do Desaparecimento,300,166,Incomum
+Poção da Longevidade,9000,188,Muito Raro
+Poção de Amizade Animal,200,187,Incomum
+Poção de Aumentar,270,187,Incomum
+Poção de Clarividência,960,187,Raro
+Poção de Cura,50,187,Comum
+Poção de Cura Maior,150,187,Incomum
+Poção de Cura Superior,450,187,Muito Raro
+Poção de Cura Suprema,1350,187,Muito Raro
+Poção de Encolher,270,187,Raro
+Poção de Envenenamento,100,188,Incomum
+Poção de Escalar,180,187,Comum
+Poção de Forma Gasosa,300,187,Raro
+Poção de Invisibilidade,180,188,Muito Rara
+Poção de Invulnerabilidade,3840,188,Raro
+Poção de Ler Mentes,180,188,Raro
+Poção de Resistência,300,188,Incomum
+Poção de Respirar na Água,180,188,Incomum
+Poção de Velocidade,400,188,Muito Raro
+Poção de Vitalidade,960,188,Muito Raro
+Poção de Vôo,500,187,Muito Raro
+Poção do Heroísmo,180,188,Raro
+Poção do Sopro de Fogo,150,187,Incomum
+Robe das Cores Cintilantes,6000,194,Muito Raro
+Robe das Estrelas,60000,194,Muito Raro
+Robe do Arquimago,34000,194,Lendário
+Robe dos Itens Úteis Itens,50000,195,Incomum
+Robe dos Olhos,30000,193,Raro
+Sacola Prestativa de Heward,2000,174,Raro
+Sandálias das Patas de Aranha,5000,200,Incomum
+Sela do Cavaleiro,2000,199,Incomum
+Solvente Universal,300,209,Lendário
+Talismã da Bondade Pura,71680,207,Lendário
+Talismã da Esfera,20000,207,Lendário
+Talismã do Mal Absoluto,61440,207,Lendário
+Tapete Voador,12000,157,Muito Raro
+Tiara do Intelecto,8000,173,Incomum
+Tridente de Comandar Peixer,800,209,Incomum
+Trombeta da Destruição,450,174,Raro
+Trombeta de Bronze do Valhalla,11200,175.344,Muito Raro
+Trombeta de Ferro do Valhalla,14000,175.344,Lendário
+Trombeta de Latão do Valhalla,8400,175.344,Raro
+Trombeta de Prata do Valhalla,5600,175.344,Raro
+Unguento de Keoghtom,120,179,Incomum
+Varinha da Obrigação,10000,209,Raro
+Varinha da Paralisia,16000,211,Raro
+Varinha de Bolas de Fogo,32000,210,Raro
+Varinha de Detecção de Inimigos,4000,210,Raro
+Varinha de Detectar Magia,1500,211,Incomum
+Varinha de Medo,10000,210,Raro
+Varinha de Metamorfose,32000,211,Muito Raro
+Varinha de Mísseis Mágicos,8000,211,Incomum
+Varinha de Relâmpagos,32000,211,Raro
+Varinha de Teia,8000,212,Incomum
+Varinha do Mago de Guerra +1,1200,212,Incomum
+Varinha do Mago de Guerra +2,4800,212,Raro
+Varinha do Mago de Guerra +3,19200,212,Muito Raro
+Varinha dos Segredos,1500,211,Incomum
+Vassoura Voadora,8000,156.174,Incomum
+Vingadora Sagrada,165000,174,Lendário
